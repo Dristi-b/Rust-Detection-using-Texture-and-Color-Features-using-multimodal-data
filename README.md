@@ -13,7 +13,5 @@ processing, extracting Hue, Saturation, and Value (HSV) color features,
 ture features, combining these extracted features, and classifying the
  healthy and rust-affected crops. Machine learning based Random Forest
  (RF), Support Vector Machine (SVM), and K-Nearest Neighbor (KNN)
- models are used to achieve higher performance, resulting in greater ac
-curacy in identifying rust pathogens. The performance of our model ex
-ceeds existing approaches and is also the highest among feature-based
+ models are used to achieve higher performance, resulting in greater accuracy in identifying rust pathogens. The performance of our model exceeds existing approaches and is also the highest among feature-based
  methods, making it the most potential method for rust detection.
